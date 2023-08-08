@@ -1,0 +1,31 @@
+{
+    "attributes": {
+        "app_name": "my_app"
+    },
+    "message":{
+        "key_one": "value one",
+        "key_two": "value two",
+        "key_three": false,
+        "key_four": 703,
+        "key_five": 3.14,
+        "key_six": {
+            "key_six_one": "value six one",
+            "key_six_two": "value six two"
+        },
+        "key_seven": [
+            "value seven one",
+            "value seven two"
+        ],
+        "key_eight": [
+            {
+                "key_eigth_one": "value eigth one",
+                "key_eigth_two": "value eigth two"
+            },
+            {
+                "key_eigth_one": "value eigth one",
+                "key_eigth_two": "value eigth two"
+            }
+        ]
+        
+    }
+}

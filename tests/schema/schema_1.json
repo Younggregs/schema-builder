@@ -1,0 +1,94 @@
+{   
+    "key_one": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_two": {
+        "type": "string",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_three": {
+        "type": "boolean",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_four": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_five": {
+        "type": "float",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_six": {
+        "type": "object",
+        "tag": "",
+        "description": "",
+        "required": false,
+        "properties": {
+            "key_six_one": {
+                "type": "string",
+                "tag": "",
+                "description": "",
+                "required": false
+            },
+            "key_six_two": {
+                "type": "string",
+                "tag": "",
+                "description": "",
+                "required": false
+            }
+        }
+    },
+    "key_seven": {
+        "type": "enum",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "key_eight": {
+        "type": "array",
+        "tag": "",
+        "description": "",
+        "required": false,
+        "items": [
+            {
+                "key_eigth_one": {
+                    "type": "string",
+                    "tag": "",
+                    "description": "",
+                    "required": false
+                },
+                "key_eigth_two": {
+                    "type": "string",
+                    "tag": "",
+                    "description": "",
+                    "required": false
+                }
+            },
+            {
+                "key_eigth_one": {
+                    "type": "string",
+                    "tag": "",
+                    "description": "",
+                    "required": false
+                },
+                "key_eigth_two": {
+                    "type": "string",
+                    "tag": "",
+                    "description": "",
+                    "required": false
+                }
+            }
+        ]
+    }
+}
